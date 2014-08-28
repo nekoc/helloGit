@@ -1,3 +1,1 @@
-hello Git 
-add some Text
-add some Text2...
+hello Git
