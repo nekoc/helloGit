@@ -1,3 +1,2 @@
 hello Git 
-
-add text
+add some Text
